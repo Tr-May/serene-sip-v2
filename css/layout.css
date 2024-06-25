@@ -1,0 +1,39 @@
+.font-italic {
+  font-style: italic;
+}
+.fw-bold {
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.5em;
+}
+/* width  */
+.w-80 {
+  width: 80%;
+}
+
+/* margin */
+
+.mx-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mr-20{
+    margin-right: 20px;
+}
+
+/* display */
+.d-inline-block{
+    display: inline-block;
+}
